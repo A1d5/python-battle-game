@@ -203,9 +203,9 @@ menu()
 #updates: 
 #-added 2 new weapons, mace and spear- 04/03/23
 #-made goblin and skelinton hp random numbers- 04/03/23
-#-added 5 new weapons: club, dagger, whip, flail andf ists
-#-added new monster: zombie
-#-added bosses -dragon now a boss- bosses: dragon, hydra, kraken, cerberus, deamon lord, giant spider, giant, cyclops and troll
+#-added 5 new weapons: club, dagger, whip, flail and fists- 04/03/23
+#-added new monster: zombie- 04/03/23
+#-added bosses -dragon now a boss- bosses: dragon, hydra, kraken, cerberus, deamon lord, giant spider, giant, cyclops and troll- 04/03/23
 
 #todo:
 #level system with bosses
